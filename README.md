@@ -14,7 +14,11 @@ This Python script uses the Tweepy library to interact with the Twitter API and 
 - Twitter Developer Account
 - Tweepy library
 - python-dotenv library
-- ollama model 
+- Install Ollama (https://ollama.com/download/linux)
+- Download llama3 model
+```sh
+ollama run llama3
+```
 
 ## Installation
 1. Clone the repository:
