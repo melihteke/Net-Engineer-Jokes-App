@@ -1,0 +1,3 @@
+ollama
+tweepy
+python-dotenv
