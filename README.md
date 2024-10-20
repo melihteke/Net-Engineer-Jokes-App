@@ -64,6 +64,3 @@ The script logs its activities and errors to both a file (app.log) and the conso
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
-
-Feel free to customize this README.md file according to your specific needs and project details.
-
